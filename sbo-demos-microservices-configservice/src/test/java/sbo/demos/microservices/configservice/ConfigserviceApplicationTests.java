@@ -1,4 +1,4 @@
-package deors.demos.microservices.configservice;
+package sbo.demos.microservices.configservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
